@@ -8,12 +8,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer
+- 🏢 Future Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
 - ⚡ Fun Fact: I go to the Gym and I'm a Boxer, my perfect day would start or end with a workout.
-- 👨‍💻 Check out my portfolio at  to see some of the projects I've worked on.
-
 
 ### Connect with Me :
 
