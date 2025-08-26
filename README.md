@@ -10,7 +10,6 @@
 
 - 🏢 Front-end Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I go to the Gym and I'm a Boxer, my perfect day would start or end with a workout.
 
 ### Connect with Me :
 
